@@ -6,7 +6,8 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Óla , mundo!");
+            Console.WriteLine("Bom dia!");
         }
     }
 }
