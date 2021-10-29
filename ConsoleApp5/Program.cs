@@ -13,6 +13,10 @@ namespace ConsoleApp5
             Console.WriteLine("boa tarde");
             Console.WriteLine("como vc esta?");
             Console.WriteLine("adicionar mais um nome!");
+            for (int i = 0; i < 05; i++)
+            {
+                Console.WriteLine("Olá mundo!");
+            }
         }
     }
 }
